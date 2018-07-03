@@ -1,0 +1,7 @@
+{
+    "orgName": "Vicinity Centres",
+    "edition": "Developer",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
